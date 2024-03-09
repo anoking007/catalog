@@ -1,4 +1,4 @@
-# Installing  
-```cd catalog````  
-```npm install````  
+# Instalation 
+````cd catalog````  
+````npm install````  
 ```npm run dev```
